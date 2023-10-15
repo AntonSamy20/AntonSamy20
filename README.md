@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntonSamy20
-- I’m Engineer
+- 👋 I’m Engineer
 - 👀 I’m interested in Maths and programming 
 - 🌱 I’m currently learning c++
 .
