@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonSamy20
-- 👋 I’m Engineer
-- 👀 I’m interested in Maths and programming 
-- 🌱 I’m currently learning c++
+- 👋 I’m IoT Engineer
+- 👀 I’m interested in Electronics,programming and Maths.
+- 🌱 I’m currently learning c++, OOP, DB
 .
 
 <!---
