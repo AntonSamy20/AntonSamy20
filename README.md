@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anton Samy!
 
-### 🧑‍💻 IoT Engineer | Electronics Enthusiast | Competitive Programmer  
+### 🧑‍💻 IoT Engineer | Aspiring Data Scientist | Competitive Programmer  
 **Location:** Egypt 🇪🇬 | **Timezone:** UTC+03:00  
 **Pronouns:** He/Him
 
@@ -9,17 +9,18 @@
 ## 🛠️ Tech Stack & Interests
 
 - 👨‍💻 **Languages:** C, C++, Python (beginner), SQL  
-- 🔁 **Learning:** OOP, Databases, C++ STL  
-- 💡 **Interests:** IoT systems, Embedded development, Algorithms, Mathematics  
-- ⚙️ **Tools:** Arduino, VS Code, Git, GitHub
+- 🔁 **Learning:** OOP, Data Structures, Data Science  
+- 💡 **Interests:** IoT systems, Embedded development, Algorithms, Mathematics, Machine Learning  
+- ⚙️ **Tools:** Arduino, VS Code, Git, GitHub, Jupyter Notebook (beginner)
 
 ---
 
 ## 📚 Currently Learning
 
 - Object-Oriented Programming in C++  
-- Solving problems on LeetCode and Codeforces  
-- Understanding database design and SQL queries
+- Core Data Structures & Algorithms  
+- Python basics for Data Science  
+- Intro to Machine Learning & Data Analysis with Pandas & NumPy
 
 ---
 
@@ -33,7 +34,7 @@
 ## 📂 Pinned Projects
 
 ### 🔸 [Learning_C](https://github.com/AntonSamy20/Learning_C)  
-Learning C language through small practical tasks and examples.  
+Learning C language through small practical tasks.  
 
 ### 🔸 [OOP_CPP](https://github.com/AntonSamy20/OOP_CPP)  
 Practicing Object-Oriented Programming concepts in C++.  
@@ -45,17 +46,18 @@ Math-related problem-solving using C++.
 
 ## 🚀 Goals for 2025
 
-- ✅ Become confident in C++ and OOP  
-- ✅ Solve 200+ LeetCode problems  
-- ✅ Contribute to open-source projects  
-- ✅ Start an IoT-related project on GitHub  
-- ✅ Build a personal portfolio website
+- 📘 Master **Data Structures** and Algorithms in C++  
+- 💡 Become **proficient in Object-Oriented Programming (OOP)**  
+- 🛠️ Build **6+ projects** using **C++ and OOP principles**  
+- 📊 Start learning **Data Science** using **Python, Pandas, NumPy, and Matplotlib**  
+- 📚 Solve 200+ problems on **LeetCode** and **Codeforces**  
+- 🌐 Launch a personal **Data Science** project  
+- 🤝 Begin contributing to **open-source** communities
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: *[optional if you want]*  
 - 🔗 [LinkedIn](https://linkedin.com/in/antonsamy20)  
 - 🌐 GitHub: [AntonSamy20](https://github.com/AntonSamy20)
 
